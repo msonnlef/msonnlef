@@ -9,11 +9,7 @@
 
 - 👯 I’m looking to collaborate on **some simple opensource project**
 
-- 🤝 I’m looking for help with **kubernetes/terraform/docker**
-
 - 💬 Ask me about **kubernetes, docker, terraform, CI/CD**
-
-- 📫 How to reach me **matias@sonnleitner.cl**
 
 - 📄 Know about my experiences [www.linkedin.com/in/msonnlef](www.linkedin.com/in/msonnlef)
 
